@@ -41,5 +41,3 @@ Este projeto foi desenvolvido por oyazigi em parceria com a plataforma de aprend
 > ## Contato
 
 Em caso de dúvidas ou sugestões, entre em contato pelo email [mambo0001@outlook.com].
-
-# virtual-piano
